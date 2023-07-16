@@ -17,4 +17,7 @@ The employee's ID, name, address, and city must be stored by the organization fo
 5) When a transaction is made it must be made using one scanner. A transaction cannot be made without a scanner. A scanner on the other hand may not participate in any transaction.
 6) Fuel records cannot exist without linking them to a specific vehicle. A vehicle in turn may not have any fuel record present.
 
-**ER Model**
+
+**Summary**:
+
+In conclusion, the MBTA receives revenue in different ways like passes, tickets for the subway, bus and commuter rail mode of transportation. They need to pay salaries to the employees and have maintenance costs like fuel and electricity, which happens to be most of their financial giving. Overall MBTA receives more revenue from subways due to the accessibility of subways which is more compared to commuter rails and busses.
